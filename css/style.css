@@ -23,8 +23,8 @@
 /* ===== global styles ===== */
 
 body {
-    font-size: 0.9em;
     background: url(../images/background.gif);
+    line-height: 1.2em;
     margin: 0;
     padding: 0;
 }
@@ -37,7 +37,8 @@ p {
 
 h1 {
 	font-family: 'Futura', 'MuseoSans', 'Helvetica', 'Arial', sans-serif;	
-	font-size: 1.9em;
+	font-size: 1.7em;
+	line-height: 1.1em;
 	text-transform: uppercase;
 	margin: 0;
     font-weight: normal;  
@@ -47,7 +48,7 @@ h1 {
 
 h2 {
 	font-family: 'Futura', 'MuseoSans', 'Helvetica', 'Arial', sans-serif;	
-	font-size: 1.4em;
+	font-size: 1.3em;
 /*	text-transform: uppercase;  */
 	margin: 0;
     font-weight: normal; 
@@ -55,10 +56,9 @@ h2 {
 }
 
 h3 {
-	font-family: 'Futura', 'MuseoSans', 'Helvetica', 'Arial', sans-serif;	
-	font-size: .9em;
+	font-family: 'Futura', 'MuseoSans', 'Helvetica', 'Arial', sans-serif;
 /*	text-transform: uppercase;  */
-	margin: 0 2px;
+	margin: 2px 0;
     font-weight: normal; 
 	color: #0479be;
 	display: inline;
